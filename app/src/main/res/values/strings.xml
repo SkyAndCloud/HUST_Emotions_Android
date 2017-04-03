@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HUST Emotions</string>
+    <string name="share_to_wechat_timeline">Share to Wechat timeline</string>
+    <string name="share_to_wechat_friend">Share to Wechat friend</string>
+    <string name="progress_dialog">Notice</string>
+    <string name="please_wait">Loading</string>
+    <string name="age">Age: %1$d</string>
+    <string name="gender">Gender: %1$s</string>
+    <string name="emotion">Emotion: %1$s</string>
+    <string name="time_used">Time: %1$s s</string>
+</resources>

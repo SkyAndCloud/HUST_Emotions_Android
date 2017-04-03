@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hust.emotion.emotions.com.hust.emotion.MainActivity" >
+    <item android:id="@+id/menu_share2wx_friend"
+        android:title="@string/share_to_wechat_friend"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/menu_share2wx_timeline"
+        android:title="@string/share_to_wechat_timeline"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
